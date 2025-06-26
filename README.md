@@ -1,7 +1,7 @@
 ## Trabajo Intregador Final
 ## Integrantes del equipo
 -REYES HERNAN ROBERTO
--GIULANO PERFETTO
+-GIULIANO PERFETTO
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
